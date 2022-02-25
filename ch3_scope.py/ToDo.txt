@@ -1,0 +1,15 @@
+Closures and Decorators
+classes and OOPS
+list comprehensions
+lambda
+User Input from command line.
+Click/ArgParser
+Regular Exp
+Recurrsive
+Array - multi
+ANSI code
+Design Pattern (https://www.linkedin.com/learning/python-design-patterns/welcome)
+Data Structure and Algorithms (https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action)
+Parallel & Concurrency 
+    1. https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-1/learn-parallel-programming-basics
+    2. https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-2/learn-parallel-programming-basics
